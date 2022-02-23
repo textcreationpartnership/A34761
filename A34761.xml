@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Countreys advice to the late Duke of Monmouth and those in rebellion with him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34761</idno>
+            <idno type="STC">Wing C6570</idno>
+            <idno type="STC">ESTC R4574</idno>
+            <idno type="EEBO-CITATION">11889864</idno>
+            <idno type="OCLC">ocm 11889864</idno>
+            <idno type="VID">50412</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50412)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 528:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Countreys advice to the late Duke of Monmouth and those in rebellion with him.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M., for the author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Bristol Public Library, Bristol England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50412:1" rendition="simple:additions"/>
+            <head>THE <hi>Countreys Advice</hi> To the Late Duke of Monmouth, And Thoſe in <hi>Rebellion</hi> with Him.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>This may be Printed.</hi>
+                  </p>
+                  <closer>
+                     <signed> R. L. S. </signed>
+                     <dateline>
+                        <date>June 30.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <lg>
+               <head>I.</head>
+               <l>YOU, who the gazing World did once admire,</l>
+               <l>And You, who were extoll'd and prais'd by all;</l>
+               <l>You, who each ſighing Virgin did deſire,</l>
+               <l>And You, who once we might Great <hi>Monmouth</hi> call;</l>
+               <l>Wherefore do you againſt our Peace conſpire,</l>
+               <l>And in a bloody War our Land inthral?</l>
+               <l>Thus <hi>Lucifer</hi> aſpiring to be Great,</l>
+               <l>Was thrown from Heav'n to his Infernal Seat.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>When to Great <hi>CHARLES</hi>'s Arms you did return,</l>
+               <l>(Not of your fore-committed Crimes to tell,)</l>
+               <l>How did that Sacred Prince's Boſom burn,</l>
+               <l>In hopes you from your former Ills had fell!</l>
+               <l>But, oh! too much Indulgence makes us mourn,</l>
+               <l>And ſighs, inſtead of Joy, our Boſoms ſwell.</l>
+               <l>Thus Mercy freely given is abus'd,</l>
+               <l>And <hi>Pardon'd Rebels</hi> for <hi>Sham-Princes</hi> us'd.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>Weigh with your ſelf the Fall of <hi>Abſalom,</hi>
+               </l>
+               <l>Let His Example teach You to be wiſe;</l>
+               <l>(He juſtly had a Rebels Martyrdom,</l>
+               <l>And climb'd a Tree, 'cauſe he'd a mind to riſe.)</l>
+               <l>Juſt Heav'n in Thunder will with Vengeance come,</l>
+               <l>And on your Head avenge your Treacheries.</l>
+               <l>Think on the guiltleſs Blood you hourly ſpill,</l>
+               <l>Where Brother Brother, Father Son does kill.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>In vain (alas!) Rebellious Arms you uſe,</l>
+               <l>In vain you mighty Preparations make,</l>
+               <l>And but in vain our Monarch you abuſe,</l>
+               <l>And skulking round about poor Women take;</l>
+               <l>In vain you your Rebellion would excuſe,</l>
+               <l>By ſaying 'tis for pure Religions ſake.</l>
+               <l>What your Religion is, I cannot tell,</l>
+               <l>But <hi>Proteſtants</hi> I'm ſure can ne're Rebell.</l>
+            </lg>
+            <pb facs="tcp:50412:2"/>
+            <lg>
+               <head>V.</head>
+               <l>Though with your weak Pretences you delude,</l>
+               <l>And bring in ſome whe're <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in Deſpair,</l>
+               <l>A wretched, hopeleſs, gaping Multitude,</l>
+               <l>Whoſe deſp'rate Souls know neither ſenſe nor care;</l>
+               <l>Yet all in vain your Treaſons are purſu'd,</l>
+               <l>Your Stratagems but weak and feeble are;</l>
+               <l>For the Almighty has his Angels ſpread,</l>
+               <l>Toguard our Sacred Lawful Monarchs Head.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>What ſhew of Right, what Law can you pretend,</l>
+               <l>To juſtifie this bold, this bloody Deed?</l>
+               <l>What is't you'd have? wherefore do you contend,</l>
+               <l>That thus you make the ſhaking Countrey bleed?</l>
+               <l>Is this our Liberties? Are you our Friend?</l>
+               <l>Dear Liberties, and a faſt Friend indeed.</l>
+               <l>Our Souls at Liberty you ſet; our Wives,</l>
+               <l>Our Goods, and Children, periſh with our Lives.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>When on Ambitions Wings you firſt were toſt,</l>
+               <l>And the curſt <hi>Faction</hi> did your mind invite,</l>
+               <l>They ſpar'd no Time, no Labour, nor no coſt,</l>
+               <l>To puff you up with a ſuppoſed Right:</l>
+               <l>But, 'cauſe you ſhou'd not in your Pride be loſt,</l>
+               <l>Your Royal Father clear'd your miſted ſight,</l>
+               <l>Who (Wiſe as Juſt, and Powerful as Great)</l>
+               <l>Declar'd you to be ILLEGITIMATE.</l>
+            </lg>
+            <lg>
+               <head>VIII.</head>
+               <l>And you deluded Souls that are engag'd</l>
+               <l>In Arms againſt your Juſt and Lawful Prince,</l>
+               <l>Conſult the grounds on which this War is wag'd,</l>
+               <l>Call back your Reaſon, and allarm your Senſe,</l>
+               <l>That this ſad bloody Conflict be aſſag'd,</l>
+               <l>In which you ne're can hope for recompence.</l>
+               <l>Ask God forgiveneſs, your wrong'd Sov'reign great,</l>
+               <l>And lay your Arms at His Imperial Feet.</l>
+            </lg>
+            <lg>
+               <head>IX.</head>
+               <l>Good God! that ever People thus ſhould be</l>
+               <l>Into ſuch baſe, unnat'ral Wars betray'd,</l>
+               <l>Under the old ſham-tale of LIBERTY,</l>
+               <l>Which at that very time they do invade,</l>
+               <l>When we before had all things juſt and free,</l>
+               <l>Nor any fear, or cauſe to be afraid:</l>
+               <l>Now <hi>Treaſon, Murther, Rape,</hi> and <hi>Maſſacre,</hi>
+               </l>
+               <l>Muſt the bleſt Title of <hi>RELIGION</hi> bear.</l>
+            </lg>
+            <lg>
+               <head>X.</head>
+               <l>But if you will not now be wiſe in time,</l>
+               <l>And chooſe Repentance e're it be late,</l>
+               <l>May you with ſpeed be puniſh'd for your Crime,</l>
+               <l>And meet the ſcourge of your deſerved Fate;</l>
+               <l>And for your Head, who wou'd to Empire climb</l>
+               <l>Upon the Aſhes of a ruin'd State,</l>
+               <l>Since neither Pardon, nor a Princes Love,</l>
+               <l>Can the ſweet Bait of Mighty Crowns remove,</l>
+               <l>Let him unpity'd in a Dungeon lie,</l>
+               <l>Till with Deſpair and Envy he ſhall die.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>T. M.</hi> (for the Author) in the Year 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
